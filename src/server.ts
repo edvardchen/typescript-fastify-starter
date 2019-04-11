@@ -1,4 +1,3 @@
-import path from 'path';
 import Fastify from 'fastify';
 import serveStatic from 'serve-static';
 
